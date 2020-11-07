@@ -1,2 +1,2 @@
 # LifeCycle
- 
+ Log出按home後會再LOGCat中顯示出Activity的生命週期
